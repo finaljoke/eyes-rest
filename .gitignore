@@ -1,0 +1,14 @@
+bin/
+bin-opt/
+obj/
+publish-friend/
+publish-friend-15min/
+publish-friend-final/
+publish-friend-final-fixed/
+publish-friend-simple/
+publish-optimal/
+.vs/
+*.user
+publish-final/
+.codegraph/
+.agents/
